@@ -1,10 +1,10 @@
 import os
-import pandas as pd
+
 from pathlib import Path
 import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
-project_name = "ml-pipeline-template"
+project_name = "mlProject"
 
 list_of_files = [
     f"src/{project_name}/__init__.py",
