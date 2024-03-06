@@ -1,5 +1,4 @@
 pandas 
-seaborn 
 notebook
 numpy
 scikit-learn
@@ -8,7 +7,7 @@ python-box==6.0.2
 pyYAML
 ensure==1.0.2
 joblib
-types-pyYAML
+types-PyYAML
 Flask
 Flask-Cors
--e
+-e .
