@@ -44,4 +44,8 @@ for filename in list_of_files:
 
     else:
         logging.info(f"{filename} already exists!")
+<<<<<<< HEAD
+        
+=======
+>>>>>>> d5476b7cd4de08df678e59b7e4250b2117061f02
         

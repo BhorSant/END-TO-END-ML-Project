@@ -41,4 +41,8 @@ setuptools.setup(
             # Add more entry points as needed
         ]
     }
+<<<<<<< HEAD
 )
+=======
+)
+>>>>>>> d5476b7cd4de08df678e59b7e4250b2117061f02
